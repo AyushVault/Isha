@@ -1,4 +1,4 @@
-const startDate = new Date("May 6, 2024 09:46:00");
+const startDate = new Date("May 6, 2024 11:24:00");
 
 const poems = [
   "To Isha, my moon and sun — forever only you, my number one. 💗",
